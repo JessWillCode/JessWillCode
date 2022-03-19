@@ -22,5 +22,5 @@
 
 🐦️ [Follow me on Twitter](https://twitter.com/JessWillCode)
 
-⏰ [Follow me of TikTok](https://www.tiktok.com/@jesswilladventure?lang=en)
+⏰ [Follow me on TikTok](https://www.tiktok.com/@jesswilladventure?lang=en)
 
