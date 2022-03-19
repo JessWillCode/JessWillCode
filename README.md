@@ -10,7 +10,7 @@
 
  💬 Ask me about **Disney or Harry Potter** and we will be best friends.
 
- ⚡️ Fun fact: I love solving all forms of **puzzles!**
+ ⚡️ Fun fact: I love to **travel!**
 
 #### Where to Find Me 📍
 
