@@ -12,7 +12,7 @@
 
  ⚡️ Fun fact: I love to **travel**!
  
-###🚀 Technical Skills
+#### 🚀 Technical Skills 
 **Frontend**: React.js, Redux, Hooks,JavaScript, HTML, CSS, Jest,  Axios, Context API, Cypress, Yup
 **Backend**: Node.js, Express, SQL, sqlite3, knex
 **Additional Skills**: , Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class Facilitation, Team Leadership & Development, Project Management, Architecture, Debugging, Deployment, Network Operations
