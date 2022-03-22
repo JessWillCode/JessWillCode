@@ -27,3 +27,4 @@
 
 ⏰ [Follow me on TikTok](https://www.tiktok.com/@jesswilladventure?lang=en)
 
+![Jess' github stats](https://github-readme-stats.vercel.app/api?username=jesswillcode)
