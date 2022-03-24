@@ -25,6 +25,6 @@
 
 💼 [Check out my Virtual Assistant Portfolio](https://www.portfolio.jesswillcode.com)
 
-⏰ [Follow me on TikTok](https://www.tiktok.com/@jesswilladventure?lang=en)
+🎬️ [Follow my Journey on Youtube](https://www.youtube.com/channel/UCqwG-EXpSQ9UZ_w6GX6J9Jw)
 
 ![Jess' github stats](https://github-readme-stats.vercel.app/api?username=jesswillcode)
