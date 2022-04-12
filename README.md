@@ -1,23 +1,23 @@
 ![Github Banner](https://user-images.githubusercontent.com/93016877/159138759-a1dad1ad-8d5d-4f3a-a6f0-11f9a89d3b9e.png)
 
-### Hey there 💜 I'm Jess!
+### Hey there 💜  I'm Jess!
 
  📌 I’m currently working on a **Disney snack planner application.**
 
- 📚️ I’m currently learning **data structures and algorithms.**
-
- 👯 I’m looking to collaborate on **a fun digital planning application for individuals in the tech industry.**
+ 📚️ I’m currently learning **Technical Prject Management**
 
  💬 Ask me about **Disney or Harry Potter** and we will be best friends.
 
- ⚡️ Fun fact: I love to **travel**!
+ ⚡️ Fun fact: I love to **travel and plan**!
  
 #### 🚀 Technical Skills 
-**Frontend**: React.js, Redux, Hooks,JavaScript, HTML, CSS, Jest,  Axios, Context API, Cypress, Yup
+**Frontend**: React.js, Redux, Hooks, JavaScript, Styled Components, HTML, CSS, Axios, Context API, Yup, Wireframes
 
-**Backend**: Node.js, Express, SQL, sqlite3, knex
+**Testing**: Jest, Cypress, React Testing Library
 
-**Additional Skills**: , Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class Facilitation, Team Leadership & Development, Project Management, Architecture, Debugging, Deployment, Network Operations
+**Backend**: Node.js, Express, SQL, Sqlite3, knex, Relational Databases, PostgresQL
+
+**Additional Skills**: JWT, Git CLI, GitHub, VS Code, Vercel, Heroku, Heroku CLI, Class Facilitation, Team Leadership & Development, Project Management, Architecture, Debugging, Deployment, Network Operations
 
 #### Where to Find Me 📍
 
