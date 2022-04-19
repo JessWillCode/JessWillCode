@@ -4,7 +4,7 @@
 
  📌 I’m currently working on a **Disney snack planner application.**
 
- 📚️ I’m currently learning **Technical Prject Management**
+ 📚️ I’m currently learning **Technical Project Management**
 
  💬 Ask me about **Disney or Harry Potter** and we will be best friends.
 
