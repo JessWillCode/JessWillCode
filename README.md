@@ -13,6 +13,20 @@
 
 - ⚡ Fun fact **I love to travel and plan!**
 
+<h3 align="center">My Favorite Movie Quotes</h3>
+
+“Remember who you are” -🦁 The Lion King
+
+"The Flower That Blooms In Adversity Is The Most Rare And Beautiful Of All." - ⚔️ Mulan
+
+“There comes a day when you are going to look around and realize happiness is where you are.” - 🌊 Moana
+
+"It does not do well to dwell on dreams and forget to live." ― 🪄 Albus Dumbledore
+
+"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." ― ✨ Albus Dumbledore
+
+"We’ve all got both light and dark inside us. What matters is the part we choose to act on. That’s who we really are." ― 💜 Sirius Black
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@jesswillcode-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jesswillcode-the-decoder" height="30" width="40" /></a>
