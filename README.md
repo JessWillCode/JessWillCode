@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesswillcode&label=Profile%20views&color=0e75b6&style=flat" alt="jesswillcode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jesswillcode" target="blank"><img src="https://img.shields.io/twitter/follow/jesswillcode?logo=twitter&style=for-the-badge" alt="jesswillcode" /></a> </p>
-
 - 🌱 I’m currently learning **DevOps, PHP/laravel, Next.js, and Typescript**
 
 - 💬 Ask me about **Disney or Harry Potter, and we will be best friends.**
