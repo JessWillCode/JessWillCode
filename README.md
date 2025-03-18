@@ -1,16 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jess Williams
 =====================================================================================================================================
 
-Full Stack Software Engineer | Instructional & Web Designer
+Full Stack Software Engineer | Instructional Designer
 -----------------------------------------------------------
 
 ⚡️ Hey there! My name is Jess, a seasoned Full-Stack Software Engineer and Business Professional with a knack for infusing every project with a touch of whimsy and a dash of innovation. From crafting elegant designs to engineering seamless digital solutions, I'm here to bring a sprinkle of magic to the digital landscape. 
-
-📌 ABOUT ME With a diverse background spanning education, technical support, marketing, and management, I've cultivated a unique blend of skills and perspectives. However, it was a transformative experience during my honeymoon at Walt Disney World in June 2021 that ignited my passion for creating memorable experiences. Inspired by the enchanting park experiences and the exceptional hospitality of the cast members, I made the decision to harness my skills in Software Development to craft captivating digital narratives. 
-
-Through Bloomtech's rigorous full-stack web development program, I honed my technical prowess and refined my ability to merge design with functionality. This journey perfectly aligns with my desire to make a meaningful impact through technology while staying true to my love for storytelling. 
-
-P.S. If you happen to have a connection at The Walt Disney Company, I'd love to chat! My DMs are always open for a bit of magic ✨ 
 
 🎯 My Technical & Professional Expertise: 
 • Proficient in Full Stack Web Development using HTML, CSS, JavaScript, React, Redux, Node, and Express 
@@ -24,12 +18,12 @@ P.S. If you happen to have a connection at The Walt Disney Company, I'd love to 
 
 ☕️ Let's connect over Virtual Tea and discuss how we can transform your digital vision into reality!
 
-*   🌍  I'm based in the United States
-*   🖥️  See my portfolio at [JessWillCode.com](http://www.jesswillcode.com)
+*   🌍  I'm based in Kentucky, United States
+*   🖥️  See my portfolio at [JessWillCode.org](http://www.jesswillcode.org)
 *   ✉️  You can contact me at [jesswillcode@gmail.com](mailto:jesswillcode@gmail.com)
-*   🧠  I'm learning Korean, Salesforce Administration, Quality Assurance
+*   🧠  I'm learning Korean, AI, and Music Production
 *   🤝  I'm open to collaborating on anything edTech, creative, or innovative!
-*   ⚡  Ask me about Disney or Harry Potter, and we will be best friends.
+*   ⚡  Ask me about Disney, Harry Potter or BTS, and we will be best friends.
   <a href="https://www.github.com/jesswillcode" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/jesswillcode?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
   
